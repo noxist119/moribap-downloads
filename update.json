@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.2.72-beta",
-  "versionCode": 75,
+  "versionName": "0.2.73-beta",
+  "versionCode": 76,
   "packageName": "com.moribap.preview",
-  "apkUrl": "https://github.com/noxist119/moribap-downloads/releases/download/v0.2.72-beta/moribap-0.2.72-beta.apk",
-  "sha256": "72d88983fb22ebc3bc73551a3a7085b1316d9acddb5a970a9c60379342fb505b"
+  "apkUrl": "https://github.com/noxist119/moribap-downloads/releases/download/v0.2.73-beta/moribap-0.2.73-beta.apk",
+  "sha256": "5eb212fc4c8b96f4fd0c0f23c402d9fcdeeb461f72c0c0244142d5de37f44c7e"
 }
